@@ -61,18 +61,7 @@ The code will start the training process, evaluate the model on the test set, vi
 
 The model achieves high accuracy on the CIFAR-10 dataset and demonstrates improved feature representation quality through visualization and metric evaluation.
 
-## Citation
 
-If you find this code useful in your research, please consider citing the following paper:
-
-```
-@article{your-paper-citation,
-  title={Your Paper Title},
-  author={Your Name and Co-authors},
-  journal={Your Journal or Conference Name},
-  year={Publication Year}
-}
-```
 
 ## License
 
